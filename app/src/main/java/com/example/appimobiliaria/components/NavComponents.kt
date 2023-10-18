@@ -26,7 +26,7 @@ fun NavContent() {
 
     ){
         Text(
-            text = "Imobiliária",
+            text = "Danilo Costa Rodrigues",
             color = Color.White
         )
         Icon(
